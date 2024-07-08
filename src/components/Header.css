@@ -1,0 +1,24 @@
+.enlacesHeader{
+    width: 80%;
+    border: blue solid 2px;
+    display: flex;
+    justify-content:space-around;
+}
+.enlacesHeader a{
+    color: white;
+    text-transform: uppercase;
+}
+.enlacesHeader a:hover{
+    color: crimson;
+}
+.navbar-toggler{
+    display: none;
+}
+@media(max-width:640px){
+    .enlacesHeader{
+        display: none;
+    }
+    .navbar-toggler{
+        display: block;
+    }
+}

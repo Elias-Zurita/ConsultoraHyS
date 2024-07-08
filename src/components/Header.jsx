@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, Route, Routes } from 'react-router-dom';
-import './Header.css'
+import '../styles/Header.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHelmetSafety } from "@fortawesome/free-solid-svg-icons";
 

@@ -51,11 +51,6 @@ export default function Footer() {
               <a href="tel:+5491149141781"></a>
               <i className="fa fa-envelope"></i> MAIL ROSI
             </p>
-            <p>
-              <a href="/contacto">
-                <i className="fa-solid fa-paper-plane"></i> Envia un mensaje
-              </a>
-            </p>
           </div>
 
           <div class="columnaFooter">
@@ -67,26 +62,16 @@ export default function Footer() {
             </p>
             <p>
               <a href="/paquetes">
-                <i className="fa fa-angle-right mr-2"></i> Todos los paquetes
+                <i className="fa fa-angle-right mr-2"></i> Servicios
               </a>
             </p>
             <p>
               <a href="/paquetes/micros">
-                <i className="fa fa-angle-right mr-2"></i> Paquetes en Micro
+                <i className="fa fa-angle-right mr-2"></i> Mediciones
               </a>
             </p>
             <p>
               <a href="/paquetes/aereos">
-                <i className="fa fa-angle-right mr-2"></i> Paquetes Aereos
-              </a>
-            </p>
-            <p>
-              <a href="/preguntas">
-                <i className="fa fa-angle-right mr-2"></i> Preguntas frecuentes
-              </a>
-            </p>
-            <p>
-              <a href="/contacto">
                 <i className="fa fa-angle-right mr-2"></i> Contacto
               </a>
             </p>

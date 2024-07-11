@@ -21,7 +21,6 @@ export default function Header() {
           </a>
           <div className="enlacesHeader">
             <Link to="/">Inicio</Link>
-            <Link to="/QuienesSomos">Quienes Somos</Link>
             <Link to="/Servicios">Servicios</Link>
             <Link to="/Mediciones">Mediciones</Link>
             <Link to="/Contacto">Contacto</Link>

@@ -41,3 +41,45 @@
   font-size: 17px;
   font-style: italic;
 }
+.textosHome{
+  border: green solid 4px;
+  max-width: 1300px;
+  margin: 80px auto;
+  padding: 30px 80px;
+  border-radius: 15px;
+  background-color: #2491cb;
+  color: white
+}
+.textosHome h2{
+  text-align: center;
+  margin: 30px;
+  color: black;
+}
+.contactanos{
+  text-align: center;
+}
+.contactanos p{
+  text-align:start
+}
+.contactanos button{
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: white;
+  color: #2491cb;
+  text-transform: uppercase;
+  transition: .3s ease-in-out;
+  font-weight: 500;
+}
+.contactanos button:hover{
+  transform: scale(1.08);
+  background-color: rgba(42, 49, 48, 0.8);
+  color: white;
+}
+.bannerDesplazable{
+  background: url(/public/importainer.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 400px;
+}
